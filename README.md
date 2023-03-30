@@ -1,7 +1,7 @@
 # free_resource_of_WAPT
-Resource_link file has the link of blog.
+Resource_link file has the link of blog posted by user **Yadav667** on medium.
 
-All the link not checked by me, I got this resource on "medium" plateform
+All the link not checked by me, I got this resource on "medium" plateform,   
 
 Open the **resource_link** file, copy the link and paste in your URL.
 
