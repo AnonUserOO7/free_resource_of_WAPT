@@ -1,10 +1,13 @@
 # free_resource_of_WAPT
 Resource_link file has the link of blog.
+
 All the link not checked by me, I got this resource on "medium" plateform
-Open th resource_link file, copy the link and paste in your URL.
+
+Open the **resource_link** file, copy the link and paste in your URL.
+
 For Backup reason I just paste the all links below :
-Resources for WEB APPLICATION PENETRATION TESTING
-Web Application Penetration Testing
+
+**Web Application Penetration Testing**
 
 Phase 1 — History
 
