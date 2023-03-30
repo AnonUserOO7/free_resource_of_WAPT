@@ -13,12 +13,19 @@ Phase 2 — Web and Server Technology
 
 Basic concepts of web applications, how they work and the HTTP protocol — https://www.youtube.com/watch?v=RsQ1tFLwldY&t=7s
 HTML basics part 1 — https://www.youtube.com/watch?v=p6fRBGI_BY0
+
 HTML basics part 2 — https://www.youtube.com/watch?v=Zs6lzuBVK2w
+
 Difference between static and dynamic website — https://www.youtube.com/watch?v=hlg6q6OFoxQ
+
 HTTP protocol Understanding — https://www.youtube.com/watch?v=JFZMyhRTVt0
+
 Parts of HTTP Request -https://www.youtube.com/watch?v=pHFWGN-upGM
+
 Parts of HTTP Response — https://www.youtube.com/watch?v=c9sMNc2PrMU
+
 Various HTTP Methods — https://www.youtube.com/watch?v=PO7D20HsFsY
+
 Understanding URLS — https://www.youtube.com/watch?v=5Jr-_Za5yQM
 Intro to REST — https://www.youtube.com/watch?v=YCcAE2SCQ6k
 HTTP Request & Response Headers — https://www.youtube.com/watch?v=vAuZwirKjWs
